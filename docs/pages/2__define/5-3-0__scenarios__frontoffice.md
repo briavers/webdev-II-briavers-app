@@ -46,10 +46,10 @@ De gebruiker selecteerd bij de boven banner de menuknop en kiest daar voor profi
 Een gebruiker wil op een categorie zoeken. 
 
 **Web Versie**  
-De gebruiker selecteerd in een navigatie voor een bepaalde categorie en krijgt vervolgens artikellen in zijn categorie te zien. Hierbij kan hij dan sorteren of zijn zoekopdracht specifiëren 
+De gebruiker selecteerd in een navigatie voor een bepaalde categorie en krijgt vervolgens artikellen in zijn categorie te zien. Hierbij kan hij/zij dan sorteren of zijn zoekopdracht specifiëren 
 
 **mobiele Versie**  
-De gebruiker selecteerd bij de boven banner de categorieën knop en kiest vervolgens uit een lijst de categorie die hij wenst. een tweede optie is dat hij in het menu naar zijn categorie gaat die hij wenst op te zoeken. Hierbij kan hij dan sorteren of zijn zoekopdracht specifiëren.
+De gebruiker selecteerd bij de boven banner de categorieën knop en kiest vervolgens uit een lijst de categorie die hij/zij wenst. een tweede optie is dat hij/zij in het menu naar zijn categorie gaat die hij/zij wenst op te zoeken. Hierbij kan hij/zij dan sorteren of zijn zoekopdracht specifiëren.
 
 ## Een zoekertje plaatsen   
 Een gebruiker wil een zoekertje plaatsen. 
@@ -73,4 +73,4 @@ De gebruiker selecteerd bij de boven banner de menuknop en kiest daar voor eigen
 Een gebruiker wil bepaalde juridische informatie lezen.
 
 **Web Versie en mobiele Versie**  
-De gebruiker selecteerd bij de footer waarover hij meer informatie wilt en krijgt vervolgens een pagina te zien waar deze staat uitgelegd.
+De gebruiker selecteerd bij de footer waarover hij/zij meer informatie wilt en krijgt vervolgens een pagina te zien waar deze staat uitgelegd.

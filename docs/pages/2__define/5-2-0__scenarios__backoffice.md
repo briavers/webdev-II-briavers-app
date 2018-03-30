@@ -60,13 +60,13 @@ De beheerder selecteerd bij de boven banner users en kiest bij de lijst van acco
 Een beheerder wil een account bewerken. 
 
 **Web Versie**  
-De beheerder selecteerd bij de boven banner users en kiest bij de lijst van accounts bij de juiste user, opties en selecteerd account bewerken en zal een detailvenster te zien krijgen waarin hij gegevens kan aanpassen.
+De beheerder selecteerd bij de boven banner users en kiest bij de lijst van accounts bij de juiste user, opties en selecteerd account bewerken en zal een detailvenster te zien krijgen waarin hij/zij gegevens kan aanpassen.
 
 ## een (sub)categorie toevoegen  
 Een beheerder wil een (sub)categorie toevoegen. 
 
 **Web Versie**  
-De beheerder selecteerd bij de boven banner (sub)categorieën en selecteerd vervolgens de optie (sub)categorie toevoegen waarna hij een detailvenster krijgt waar alle gevens moeten worden ingevuld zoals een naam, een beschrijving, een tumbnail... . 
+De beheerder selecteerd bij de boven banner (sub)categorieën en selecteerd vervolgens de optie (sub)categorie toevoegen waarna hij/zij een detailvenster krijgt waar alle gevens moeten worden ingevuld zoals een naam, een beschrijving, een tumbnail... . 
 
 ## een (sub)categorie verwijderen  
 Een beheerder wil een (sub)categorie verwijderen. 
@@ -78,5 +78,34 @@ De beheerder selecteerd bij de boven banner (sub)categorieën en selecteerd verv
 Een beheerder wil een (sub)categorie aanpassen. 
 
 **Web Versie**  
-De beheerder selecteerd bij de boven banner (sub)categorieën en selecteerd vervolgens uit de lijst van (sub)categorieën de juiste (sub)categorie en selecteerd bij opties (sub)categorie aanpassen en zal een detailvenster te zien krijgen waarin hij gegevens kan aanpassen.
+De beheerder selecteerd bij de boven banner (sub)categorieën en selecteerd vervolgens uit de lijst van (sub)categorieën de juiste (sub)categorie en selecteerd bij opties (sub)categorie aanpassen en zal een detailvenster te zien krijgen waarin hij/zij gegevens kan aanpassen.
 
+## een product toevoegen  
+Een beheerder wil een product toevoegen. 
+
+**Web Versie**  
+De beheerder selecteerd bij de boven banner producten en selecteerd vervolgens de optie product toevoegen waarna hij/zij een detailvenster krijgt waar alle gevens moeten worden ingevuld zoals een naam, een beschrijving, een foto, een prijs,... . 
+
+## een product verwijderen  
+Een beheerder wil een product verwijderen. 
+
+**Web Versie**  
+De beheerder selecteerd bij de boven banner producten en selecteerd vervolgens uit de lijst van producten de juiste product en selecteerd bij opties product verwijderen en zal een extra bevestigingsvraag krijgen nadien. waneer deze positief is beantwoord word het account gedeactiveerd. 
+
+## een product aanpassen  
+Een beheerder wil een product aanpassen. 
+
+**Web Versie**  
+De beheerder selecteerd bij de boven banner producten en selecteerd vervolgens uit de lijst van producten de juiste product en selecteerd bij opties product aanpassen en zal een detailvenster te zien krijgen waarin hij/zij gegevens kan aanpassen.
+
+## Statestieken bekijken
+Een beheerder wil statistieken bekijken. 
+
+**Web Versie**  
+De beheerder selecteerd bij de boven banner statestieken en selecteerd vervolgens de specifieke statestiek die hij/zij kan zien 
+
+## Statestieken aanmaken
+Een beheerder wil statistiek aanmaken en opslaan om zo snel statestieken te kunnen bekijken . 
+
+**Web Versie**  
+De beheerder selecteerd bij de boven banner statestieken en selecteerd vervolgens de specifieke gegevens statestiek die hij/zij wenst te zien. Nadien kan hij/zij klikken op opslaan om deze op te slaan 

@@ -100,5 +100,5 @@ title: Backoffice
 
 ## Functional Requirements
 - de beheerder kan gebruikers een tijdelijke ban geven waneer ze tegen de community richtlijnen gaan
-
+- de beheerder kan statestieken aanmaken en deze onthouden zodat er snel een bepaalde set gegevens kan worden gekozen
 ## Non-Functional Requirements
