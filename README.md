@@ -1,7 +1,7 @@
 Web Development II 2017-2018
 ============================
 
-Student: «voornaam» «familienaam»
+Student: Brian Verschoore
 
 > Artevelde University College Ghent
 
