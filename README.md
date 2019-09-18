@@ -44,8 +44,3 @@ baseurl: /«repositorynaam» # the subpath of your site, e.g. /blog
 ### GitHub Pages Configuratie
 
 Op GitHub ga je naar je repository en klik op **Settings**. Scroll naar beneden tot aan **GitHub Pages**, zet de **Source** op `master branch /docs folder` en klik op **Save** om te bewaren.
-
-### Voorbeeldsite
-
- - Basissjabloon <https://gdmgent-1718-webdev2.github.io/1718-webdev2-project>
- - Persoonlijke repo van Bart Missant <https://gdmgent-1718-webdev2.github.io/1718-webdev2-project-olivpa>
